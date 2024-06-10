@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Lion",
+    "habitat": "Savannah",
+    "country": "Kenya",
+    "imageBase64": "iVBORw0KGgoAAAANSUhEUgAAA...",
+    "voiceBase64": "UklGRjwAAABXQVZFZm10IBAAAAABAAEAESsA...",
+    "species": "Panthera leo",
+    "diet": "Carnivore",
+    "number": "1"
+  },
+  {
+    "name": "Elephant",
+    "habitat": "Forest",
+    "country": "India",
+    "imageBase64": "iVBORw0KGgoAAAANSUhEUgAAA...",
+    "voiceBase64": "UklGRjwAAABXQVZFZm10IBAAAAABAAEAESsA...",
+    "species": "Elephas maximus",
+    "diet": "Herbivore",
+    "number": "2"
+  },
+  {
+    "name": "Penguin",
+    "habitat": "Antarctic",
+    "country": "Antarctica",
+    "imageBase64": "iVBORw0KGgoAAAANSUhEUgAAA...",
+    "voiceBase64": "UklGRjwAAABXQVZFZm10IBAAAAABAAEAESsA...",
+    "species": "Aptenodytes forsteri",
+    "diet": "Carnivore",
+    "number": "3"
+  },
+  {
+    "name": "Kangaroo",
+    "habitat": "Grassland",
+    "country": "Australia",
+    "imageBase64": "iVBORw0KGgoAAAANSUhEUgAAA...",
+    "voiceBase64": "UklGRjwAAABXQVZFZm10IBAAAAABAAEAESsA...",
+    "species": "Macropus",
+    "diet": "Herbivore",
+    "number": "4"
+  },
+  {
+    "name": "Panda",
+    "habitat": "Forest",
+    "country": "China",
+    "imageBase64": "iVBORw0KGgoAAAANSUhEUgAAA...",
+    "voiceBase64": "UklGRjwAAABXQVZFZm10IBAAAAABAAEAESsA...",
+    "species": "Ailuropoda melanoleuca",
+    "diet": "Herbivore",
+    "number": "5"
+  }
+]
